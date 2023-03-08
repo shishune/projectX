@@ -1,0 +1,44 @@
+* {
+    color: #4F4F4F;
+    text-decoration: none; 
+}
+
+main {
+    flex-grow: 1;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#signUpForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#signupFirstName, #signupLastName, #signupEmail, #signupPassword {
+    padding: 15px;
+    width: 200px;
+}
+
+#signUpButton {
+    background-color: #49C4B1;
+    color: white;
+    width:fit-content;
+    padding: 10px 15px;
+    border: 1px solid #56c7b6;
+    border-radius: 5px;
+}
+
+#logInLink {
+    font-weight: 500;
+}
+
+.error {
+    color: #FF857B;
+    font-size: 12px;
+    font-weight: bold;
+}

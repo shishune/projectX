@@ -1,0 +1,161 @@
+
+.floatRight{
+  float: right;
+}
+
+.btn {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 42%;
+  zoom: 1.5;
+}
+
+button {
+  border-radius: 10px;
+  background-color: grey;
+  outline: none;
+}
+
+.dialogueHeader{
+  position: sticky;
+  top: 0;
+}
+
+.dialogueFooter{
+  position: sticky;
+  bottom: 0;
+  right: 0;
+  /* float: right; */
+}
+
+button:hover {
+  background-color: white;
+}
+
+.dialogueBackgroundBlur {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+  margin: 0;
+  /* padding: 0; */
+}
+
+.editDialogue {
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+  min-width: 400px;
+  max-height: 75%;
+  overflow: auto;
+  /* border: 2px solid black; */
+}
+
+.close {
+  color: Black;
+  float: right;
+}
+
+.close:hover {
+  cursor: pointer;
+}
+
+
+.editLabel{
+  padding: 10px;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+#editForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  right: 50px;
+  gap: 10px;
+}
+
+.websiteSelect {
+  border: solid 1px #BABABA;
+  font-weight: 600;
+  padding: 10px 15px;
+  width: 150px;
+  margin: 10px;
+  font-family: inherit;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.websiteOption {
+  font-family: inherit;
+}
+
+#prefName, #firstName, #lastName, #email, #newPassword, #bio, #location, .linkInput {
+  padding: 15px;
+  width: 300px;
+  font-family: inherit;
+}
+
+#bio{
+  padding: 15px;
+  min-height: 100px;
+  min-width: 300px;
+  max-width: 350px;
+  max-height: 1000px;
+
+}
+
+#email{
+  cursor:not-allowed;
+}
+
+#PFPimageFile{
+  position: relative;
+  right: 10px;
+  padding: 15px;
+  font-family: inherit;
+}
+
+
+#saveProfileButton {
+  display: flex; 
+  position: absolute;
+  bottom: 20px;
+  right: -350px;
+  float: right;
+  background-color: #49C4B1;
+  color: white;
+  width:fit-content;
+  padding: 10px 15px;
+  border: 1px solid #56c7b6;
+  border-radius: 5px;
+  /* font-family: inherit; */
+}
+
+/* 
+note: i dont know how to style checkboxes ;-;
+.checkmark {
+  height: 25px;
+  width: 15px;
+  background-color: #eee;
+} 
+
+#casual, #professional input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+*/
+
+
+
+

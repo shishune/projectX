@@ -1,0 +1,43 @@
+.profilePostTitle {
+    display: flex;
+    gap: 30px;
+}
+
+.profilePostContainer {
+    width: 602px;
+}
+  
+.profilePostCard{
+    height: 180px; 
+    margin-bottom: 20px;
+}
+  
+.profileSubHeadingsContainer {
+    text-align: left;
+    padding: 20px;
+}
+
+.profileCardTitle{
+    font-size: 22px;
+    margin-bottom: 11px;
+}  
+  
+/* Post is flagged */
+#profilePostIsFlaggedContainer {
+    margin-bottom: 20px;
+}
+
+#profilePostIsFlaggedIcon {
+    width: 20px;
+    position: relative;
+    top: 5px;
+}
+  
+#profilePostIsFlaggedText {
+    color: red;
+}
+  
+
+  
+  
+  

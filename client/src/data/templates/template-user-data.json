@@ -1,0 +1,29 @@
+{
+  "id" : "",
+  "isAdmin" : "",
+  "username" : "",
+  "password" : "",
+  "firstName" : "",
+  "lastName" : "",
+  "preferredName" : "",
+  "profileImgLink" : "",
+  "casualProjects" : "true",
+  "professionalProjects" : "false",
+  "location" : "",
+  "bio" : "",
+  "links" : [
+    {
+      "linkName" : "",
+      "link" : ""
+    },
+    {
+      "linkName" : "",
+      "link" : ""
+    },
+    {
+      "linkName" : "",
+      "link" : ""
+    }
+  ],
+  "posts": []
+}

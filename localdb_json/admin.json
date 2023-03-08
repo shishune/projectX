@@ -1,0 +1,49 @@
+{
+    "_id": {
+        "$oid": "624e3adb790bdf16e86fb9bc"
+    },
+    "isAdmin": "true",
+    "username": "admin@admin.com",
+    "password": "admin",
+    "firstName": "Adam",
+    "lastName": "Manman",
+    "preferredName": "",
+    "profileImgLink": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+    "location": "Ottawa, On",
+    "bio": "My name is Adam, though I prefer to be called Ad the man. I am an admin for this platform, but I also believe in the serious business of creating satisfying videos. If you have similar interests, or would like to contact me regarding site admin related issues, please message me and I will do my best to respond within 24 hours.",
+    "links": [{
+        "linkName": "OtherWebsite",
+        "link": " amaaa",
+        "_id": {
+            "$oid": "624c8093824276706ee9f328"
+        }
+    }, {
+        "linkName": "OtherWebsite",
+        "link": " ",
+        "_id": {
+            "$oid": "624c8093824276706ee9f329"
+        }
+    }, {
+        "linkName": "OtherWebsite",
+        "link": " ",
+        "_id": {
+            "$oid": "624c8093824276706ee9f32a"
+        }
+    }],
+    "casualProjects": "false",
+    "professionalProjects": "false",
+    "posts": [],
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1649180819572"
+        }
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1649183800954"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}

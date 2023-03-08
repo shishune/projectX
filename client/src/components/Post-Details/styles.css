@@ -1,0 +1,545 @@
+.subsectionHeading {
+  font-weight: bold;
+}
+
+/* POST DETAILS LEFT SECTION*/
+#leftSection {
+  /*background-color: red;*/
+  padding: 20px;
+  padding-left: 90px;
+  /* font-family: 'Noto Sans', sans-serif; */
+}
+
+/* Title Section */
+#titleSection {
+  margin-bottom: 40px;
+}
+
+/* more button */
+#moreBtn {
+  text-align: right;
+}
+
+/* edit dialog */
+.dialogueHeader{
+  position: sticky;
+  top: 0;
+}
+
+
+
+.dialogueBackgroundBlur {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+  margin: 0;
+  padding: 0;
+}
+
+.editDialogue {
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 80%;
+  padding: 20px;
+  border-radius: 5px;
+  min-width: 400px;
+  max-height: 75%;
+  overflow: auto;
+  z-index: 3;
+  text-align: center;
+}
+
+#editForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  right: 0px;
+  gap: 10px;
+  text-align: center;
+}
+
+.editSectionBorder {
+  border: 1px solid #9b9b9b;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.editSectionContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#editFormContentContainer {
+  /* margin-top: 40px; */
+  align-items: center;
+  text-align: left;
+}
+
+#editDialogueTitle {
+  font-size: 30px;
+  text-align: center;
+  /* float: left; */
+}
+
+.close {
+  color: Black;
+  float: right;
+}
+
+.close:hover {
+  cursor: pointer;
+}
+
+.editPostTypeContainer {
+  display: inline-block;
+}
+
+.editLocationContainer {
+  display: inline-block;
+}
+
+.editLabel{
+  padding: 10px;
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+
+.dropDownSelect {
+  border: solid 1px #BABABA;
+  font-weight: 600;
+  padding: 10px 15px;
+  width: 150px;
+  margin: 10px;
+  font-family: inherit;
+  border-radius: 5px;
+  background-color: white;
+  display: inline-block;
+}
+.editLocationTextContainer {
+  display: inline-block
+}
+
+
+
+.addPostVideoContainer{
+  border: 1px solid #BABABA;
+}
+
+
+label {
+  width: fit-content;
+}
+
+#submitButton {
+  display: flex; 
+  position: absolute;
+  bottom: 20px;
+  right: -450px;
+  background-color: #49C4B1;
+  color: white;
+  width:fit-content;
+  padding: 10px 15px;
+  border: 1px solid #56c7b6;
+  border-radius: 5px;
+}
+
+
+input[type=text], input[type=url], textarea {
+  padding: 15px;
+  width: 300px;
+  font-family: inherit;
+}
+
+textarea {
+  height: 100px;
+}
+
+
+#menu {
+  width: fit-content;
+  position: absolute;
+  left: 55%;
+  z-index: 2;
+}
+
+/* Edit dialogue */
+.editVideoContainer {
+}
+
+/* title */
+#title {
+  font-size: 72px;
+  color: #000;
+  text-align: left;
+}
+
+/* post type */
+#postTypeProfessional {
+  background-color: #49c4b1;
+}
+
+#postTypeCasual {
+  background-color: #ff857b;
+}
+
+.postType {
+  width: fit-content;
+  height: fit-content;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  position: relative;
+  bottom: 8px;
+  margin-left: 20px;
+}
+
+/* post location */
+#postLocation {
+  text-align: left;
+}
+
+#locationIcon {
+  display: inline-block;
+  width: 20px;
+  position: relative;
+  top: 5px;
+}
+
+#locationText {
+  display: inline-block;
+}
+
+/* post tags */
+#tags {
+  text-align: left;
+  margin-top: 20px;
+  width: fit-content;
+}
+
+#tagList {
+  padding-left: 0px;
+}
+
+.tagItem {
+  display: inline;
+  list-style-type: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-right: 8px;
+  background-color: #C6C6C6;
+  border-radius: 50px;
+  height: fit-content;
+  color: #1f1f1f;
+  font-size: 14px;
+  text-align: left;
+}
+
+#tagItemStandOut { /* for items that are physical products */
+  background-color: #f7285c;
+}
+
+/* title section bottom (post views and admin btns) */
+#titleSectionBottomBar {
+ text-align: right;
+}
+
+/* post views */
+#postViews {
+  text-align: right;
+  margin-right: 30px;
+  display: inline-block;
+}
+
+#viewsIcon {
+  display: inline-block;
+  width: 20px;
+  position: relative;
+  top: 6px;
+}
+
+#viewsText {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+/* Post is flagged */
+#postIsFlaggedContainer {
+  margin-bottom: 20px;
+}
+#postIsFlaggedIcon {
+  width: 20px;
+  position: relative;
+  top: 5px;
+}
+
+#postIsFlaggedText {
+  color: red;
+}
+
+/* Admin buttons */
+#adminBtnContainer {
+  text-align: right;
+  display: inline-block;
+}
+
+.adminBtn {
+  color: red;
+  line-height: 0em;;
+  background-color: #fff;
+  border-style: solid;
+  border-color: red;
+  margin-right: 20px;
+  font-size: 15px;
+  text-align: center;
+  padding: 1.25em 1em;
+}
+
+.adminBtn:hover {
+  color: white;
+  background-color: red;
+  cursor: pointer;
+}
+
+.adminBtn:active {
+  color: white;
+  background-color: #e01818;
+  border-color: #e01818;
+  cursor: pointer;
+}
+
+#adminRemovePostBtn {
+
+}
+
+/* Info Section */
+#infoSection {
+  margin-bottom: 40px;
+}
+
+/* target users */
+#targetUsers {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+/* description */
+#description {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+/* materials */
+#materials {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+#materialsHeading {
+  margin-bottom: 8px;
+}
+
+/* possible cost estimates */
+#possibleConstEstimates {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+/* inspiration */
+#inspirations {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+#inspirationsHeading {
+  margin-bottom: 8px;
+}
+
+.subsectionVideos {
+ margin-bottom: 30px;
+ margin-bottom: 30px;
+}
+
+.videoContainer {
+  margin-right: 10px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.videoSectionVideo {
+  margin-bottom: 5px;
+}
+
+.videoSectionTitle {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.videoSectionDesc {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.otherLinksLinkPro{
+  color: #49c4b1;
+}
+
+.otherLinksLinkPro:visited {
+  color: #95c2bb;
+}
+
+.otherLinksLinkCasual{
+  color: #ff857b;
+  
+}
+
+.otherLinksLinkCasual:visited {
+  color: #ffcfcb;
+}
+
+.otherLinksLink {
+  text-decoration: underline;
+}
+
+.otherLinksList {
+  text-align: left;
+}
+
+
+/* POST DETAILS RIGHT SECTION*/
+#rightSection {
+  /*background-color: blue;*/
+  padding: 20px;
+}
+
+#sectionMargin {
+  margin-right: 90px;
+}
+
+.rightSectionContainer {
+  text-align: left;
+  padding: 20px;
+}
+
+.rightSectionTitle {
+  font-size: 22px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.jobTitle {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.jobDesc {
+  margin-bottom: 10px;
+}
+
+.purposeSection {
+ margin-bottom: 10px;
+}
+
+.requirementsSection {
+  margin-bottom: 10px;
+}
+
+.requirementsList {
+  padding: 0px;
+  text-align: left;
+  list-style-type: circle;
+}
+
+.requirementsItem {
+  list-style-type: circle;
+  padding: 0px;
+}
+
+#lookingForContactSection {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#lookingForContactText {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.additionalInfoSection {
+  margin-bottom: 10px;
+}
+
+/* Posted By Section */
+
+#postedByContactSection {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#postedByContactText {
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+#postedByTopContainer {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#profileImgContainer {
+  display: inline-block;
+}
+
+#profileImg {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+#postedByNameLocationContainer {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#postedByName {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+#posterLocationImg {
+  display: inline-block;
+  width: 15px;
+}
+
+#posterLocationText {
+  display: inline-block;
+  font-size: 12px;
+  position: relative;
+  bottom: 7px;
+}
+
+#postedbyBioContainer {
+  margin-bottom: 10px;
+}
+.editRequiredPeopleRequirementsRequirementContainer {
+  padding-bottom: 10px;
+}

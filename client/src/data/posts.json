@@ -1,0 +1,270 @@
+{
+  "GeneratedUniquePostId1" : {
+    "postId" : "GeneratedUniquePostId1",
+    "title": "Satisfying stuff",
+    "postType": "Professional",
+    "postSearchState" : "In progress",
+    "postLocation": "Semi-Remote (Toronto, ON)",
+    "tags" : [
+      {
+        "tagName" : "Technology"
+      },
+      {
+        "tagName" : "Health"
+      },
+      {
+        "tagName" : "Physical Product"
+      }
+    ],
+    "numViews" : "0",
+    "targetUsers" : "Elderly, Abled, Medical Workers",
+    "description" : "Vivamus pellentesque ultricies urna ut sagittis. Sed et tempus nunc. Integer ut facilisis dolor. Aenean iaculis enim in nisl volutpat pretium. In finibus, nisi et imperdiet varius, lectus nulla egestas elit, non pellentesque quam leo vel urna. Maecenas egestas, diam vel dignissim porta, nisi nibh congue sapien, sed tristique elit ligula ac neque. Quisque tempus eros vel laoreet blandit.",
+    "materials" : {
+      "videos" : [
+        {
+          "link" : "https://www.youtube.com/embed/bHX4GcxrUgY",
+          "title" : "Clay cracking video",
+          "description" : "Donec accumsan tempus dolor et venenatis. Aenean a sem id eros iaculis commodo eu id quam. Nunc luctus purus augue."
+        },
+        {
+          "link" : "https://youtube.com/embed/WsG_3NdAmkk",
+          "title" : "slime video",
+          "description" : "Maecenas commodo convallis metus quis rutrum. Etiam ornare molestie dolor, et ultrices leo condimentum ac."
+        },
+        {
+          "link" : "https://youtube.com/embed/aCKtkvFvXa8",
+          "title" : "Paint making",
+          "description" : "Morbi rutrum, elit eu accumsan viverra, lectus sem rutrum ex, nec volutpat neque sem eget nibh. Nunc laoreet ipsum ipsum."
+        }
+      ],
+      "otherLinks" : [
+        {
+          "linkText" : "Information on non copyrighted music",
+          "link" : "https://snapmuse.com/insights/non-copyrighted-music"
+        },
+        {
+          "linkText" : "How paint pigments are made",
+          "link" : "https://www.britannica.com/technology/pigment"
+        }
+      ]
+    },
+    "possibleCostEstimates" : "",
+    "inspirations" : {
+      "videos" : [
+        {
+          "link" : "https://youtube.com/embed/k6vb9Eb-Ufc",
+          "title" : "Soap cutting",
+          "description" : "Curabitur pulvinar dolor a tellus rhoncus faucibus. Nullam placerat facilisis scelerisque. Etiam in felis urna."
+        },
+        {
+          "link" : "https://youtube.com/embed/VHB3_W8cTto",
+          "title" : "Satisfying video",
+          "description" : "Vestibulum ullamcorper massa eu tortor hendrerit fermentum. Fusce et ultrices diam. Pellentesque sagittis, velit ac ullamcorper tristique, purus turpis tincidunt mauris, non eleifend nulla quam id velit."
+        }
+      ],
+      "otherLinks" : [
+      ]
+    },
+    "requiredPeople" : [
+      {
+        "jobTitle" : "A Coder",
+        "jobDescription" : "Maecenas sagittis eros eget sagittis sollicitudin. In hendrerit diam ut quam auctor, a elementum eros pellentesque.",
+        "purpose" : "Maecenas convallis enim magna, vitae semper ex feugiat ut.",
+        "requirements" : [
+          {
+            "requirement" : "dsbfhkacrbweafx"
+          },
+          {
+            "requirement" : "bejkla;lcarmcfvsscratv"
+          }
+        ],
+        "additionalInfo" : "dflcalnrc srgcp a cegcaslc alnxla lrscalacxlc arev etcnar acracxz."
+      },
+      {
+        "jobTitle" : "Medical Professional",
+        "jobDescription" : "asnvdfkjnelakbnekbrjsasns",
+        "purpose" : "aljkvakj avnkalvjnv svea",
+        "requirements" : [
+          {
+            "requirement" : "bevhvbaucufnfyugqixawnzfa"
+          },
+          {
+            "requirement" : "banffkf ajnaslkvngbab"
+          },
+          {
+            "requirement" : "ksjisgksjnhkgsgdar agagrggra"
+          }
+        ],
+        "additionalInfo" : "bkf  rkjdkjfvbjdsbghrba erafbfaabfrhebca sfb reracksfbka rtc"
+      }
+    ],
+    "posterId" : "generatedUniqueUserID2"
+  },
+  "GeneratedUniquePostId2" : {
+    "postId" : "GeneratedUniquePostId2",
+    "title": "Science stuff",
+    "postType": "Casual",
+    "postSearchState" : "Completed",
+    "postLocation": "Remote (Richmond Hill, ON)",
+    "tags" : [
+      {
+        "tagName" : "Physical Product"
+      }
+    ],
+    "numViews" : "10000",
+    "targetUsers" : "Everyone",
+    "description" : "Vivamus pellentesque ultricies urna ut sagittis. Sed et tempus nunc. Integer ut facilisis dolor. Aenean iaculis enim in nisl volutpat pretium. In finibus, nisi et imperdiet varius, lectus nulla egestas elit, non pellentesque quam leo vel urna. Maecenas egestas, diam vel dignissim porta, nisi nibh congue sapien, sed tristique elit ligula ac neque. Quisque tempus eros vel laoreet blandit.",
+    "materials" : {
+      "videos" : [
+      ],
+      "otherLinks" : [
+        {
+          "linkText" : "Information on science",
+          "link" : "https://en.wikipedia.org/wiki/Scientific_method#:~:text=The%20process%20in%20the%20scientific,observations%20based%20on%20those%20predictions.&text=Scientists%20then%20test%20hypotheses%20by%20conducting%20experiments%20or%20studies."
+        }
+      ]
+    },
+    "possibleCostEstimates" : "",
+    "inspirations" : {
+      "videos" : [
+        {
+          "link" : "https://youtube.com/embed/e-P5IFTqB98",
+          "title" : "black holes",
+          "description" : "Curabitur pulvinar dolor a tellus rhoncus faucibus. Nullam placerat facilisis scelerisque. Etiam in felis urna."
+        },
+        {
+          "link" : "https://youtube.com/embed/UqURY1YGC1U",
+          "title" : "how to make telescope",
+          "description" : "Vestibulum ullamcorper massa eu tortor hendrerit fermentum. Fusce et ultrices diam. Pellentesque sagittis, velit ac ullamcorper tristique, purus turpis tincidunt mauris, non eleifend nulla quam id velit."
+        }
+      ],
+      "otherLinks" : [
+        {
+          "linkText" : "What are blackholes?",
+          "link" : "https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-a-black-hole-k4.html"
+        },
+        {
+          "linkText" : "How scientists observe black holes",
+          "link" : "https://science.nasa.gov/astrophysics/focus-areas/black-holes#:~:text=Scientists%20can't%20directly%20observe,effect%20on%20other%20matter%20nearby."
+        },
+        {
+          "linkText" : "About black hole images",
+          "link" : "https://www.skyatnightmagazine.com/space-science/m87-black-hole-photograph-how/"
+        },
+        {
+          "linkText" : "How does a star become a blackhole",
+          "link" : "https://www.pnas.org/content/117/3/1240#:~:text=When%20the%20core%20collapses%2C%20the,implodes%2C%20forming%20a%20black%20hole."
+        }
+      ]
+    },
+    "requiredPeople" : [
+      {
+        "jobTitle" : "Aerospace Engineer",
+        "jobDescription" : "Maecenas sagittis eros eget sagittis sollicitudin. In hendrerit diam ut quam auctor, a elementum eros pellentesque.",
+        "purpose" : "Maecenas convallis enim magna, vitae semper ex feugiat ut.",
+        "requirements" : [
+          {
+            "requirement" : "dsbfhkacrbweafx"
+          },
+          {
+            "requirement" : "bejkla;lcarmcfvsscratv"
+          }
+        ],
+        "additionalInfo" : "dflcalnrc srgcp a cegcaslc alnxla lrscalacxlc arev etcnar acracxz."
+      },
+      {
+        "jobTitle" : "Space Scientist",
+        "jobDescription" : "nalvvnlfegwgnliawencewa4nrcowoxqmswaxxwarca",
+        "purpose" : "to talk about black holes together",
+        "requirements" : [
+          {
+            "requirement" : "bevhvbaucufnfyugqixawnzfa"
+          },
+          {
+            "requirement" : "banffkf ajnaslkvngbab"
+          },
+          {
+            "requirement" : "ksjisgksjnhkgsgdar agagrggra"
+          }
+        ],
+        "additionalInfo" : "bkf  rkjdkjfvbjdsbghrba erafbfaabfrhebca sfb reracksfbka rtc"
+      }
+    ],
+    "posterId" : "generatedUniqueUserID1"
+  },
+  "GeneratedUniquePostId3" : {
+    "postId" : "GeneratedUniquePostId3",
+    "title": "Cat Cafe Downtown",
+    "postType": "Professional",
+    "postSearchState" : "Searching",
+    "postLocation": "In Person (Toronto, ON, Canada)",
+    "tags" : [
+      {
+        "tagName" : "Physical Product"
+      },
+      {
+        "tagName" : "everyone"
+      }
+    ],
+    "numViews" : "5000",
+    "targetUsers" : "everyone",
+    "description" : "Vivamus pellentesque ultricies urna ut sagittis. Sed et tempus nunc. Integer ut facilisis dolor. Aenean iaculis enim in nisl volutpat pretium. In finibus, nisi et imperdiet varius, lectus nulla egestas elit, non pellentesque quam leo vel urna. Maecenas egestas, diam vel dignissim porta, nisi nibh congue sapien, sed tristique elit ligula ac neque. Quisque tempus eros vel laoreet blandit.",
+    "materials" : {
+      "videos" : [
+        {
+          "link" : "https://youtube.com/embed/xbs7FT7dXYc",
+          "title" : "video for cats",
+          "description" : "Curabitur pulvinar dolor a tellus rhoncus faucibus. Nullam placerat facilisis scelerisque. Etiam in felis urna."
+        },
+        {
+          "link" : "https://youtube.com/embed/HvaQw77UQcw",
+          "title" : "food for cats",
+          "description" : "Vestibulum ullamcorper massa eu tortor hendrerit fermentum. Fusce et ultrices diam. Pellentesque sagittis, velit ac ullamcorper tristique, purus turpis tincidunt mauris, non eleifend nulla quam id velit."
+        }
+      ],
+      "otherLinks" : [
+      ]
+    },
+    "possibleCostEstimates" : "space for cats and food for cats and money for cats",
+    "inspirations" : {
+      "videos" : [
+      ],
+      "otherLinks" : [
+      ]
+    },
+    "requiredPeople" : [
+      {
+        "jobTitle" : "Chef",
+        "jobDescription" : "Maecenas sagittis eros eget sagittis sollicitudin. In hendrerit diam ut quam auctor, a elementum eros pellentesque.",
+        "purpose" : "Maecenas convallis enim magna, vitae semper ex feugiat ut.",
+        "requirements" : [
+          {
+            "requirement" : "dsbfhkacrbweafx"
+          },
+          {
+            "requirement" : "bejkla;lcarmcfvsscratv"
+          }
+        ],
+        "additionalInfo" : "dflcalnrc srgcp a cegcaslc alnxla lrscalacxlc arev etcnar acracxz."
+      },
+      {
+        "jobTitle" : "Nutritionist",
+        "jobDescription" : "nalvvnlfegwgnliawencewa4nrcowoxqmswaxxwarca",
+        "purpose" : "to talk about black holes together",
+        "requirements" : [
+          {
+            "requirement" : "bevhvbaucufnfyugqixawnzfa"
+          },
+          {
+            "requirement" : "banffkf ajnaslkvngbab"
+          },
+          {
+            "requirement" : "ksjisgksjnhkgsgdar agagrggra"
+          }
+        ],
+        "additionalInfo" : "bkf  rkjdkjfvbjdsbghrba erafbfaabfrhebca sfb reracksfbka rtc"
+      }
+    ],
+    "posterId" : "generatedUniqueUserID1"
+  }
+}

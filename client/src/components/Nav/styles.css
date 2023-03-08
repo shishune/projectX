@@ -1,0 +1,48 @@
+/* nav style */
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 75px;
+    padding: 10px 25px;
+}
+
+.logOut {
+    display: flex;
+    align-items: center;
+}
+
+.accountLinks {  
+    text-decoration: none;  
+    padding: 15px 20px;
+    cursor: pointer;
+}
+
+.profileImg{
+    width: 30px;  
+    height: 30px;  
+    border-radius: 50%;
+}
+
+#companyLogo {  
+    width: 30px;  
+    height: 30px;  
+    border-radius: 50%;
+} 
+
+#admin{
+    border-color: red;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    color: red;
+    padding: 10px;
+    height: min-content;
+}
+
+#right {
+    display: flex;
+    align-items: center;
+    float: right;
+}

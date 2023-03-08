@@ -1,0 +1,72 @@
+.row{
+  display:flex; 
+  flex-direction:row;
+  align-items: center;
+  justify-content: center;
+}
+
+.GeneralInfo{
+  min-width: 1000px;
+  overflow: auto;
+  padding: 0px;
+  margin: 0px;
+}
+
+.pfp{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.imageInfo{
+  margin: 10px 50px 10px 100px;
+  min-width: 150px;
+}
+
+
+li, .leftItem {
+  display: block;
+  padding: 10px;
+}
+
+
+.floatRight{
+  float: right;
+}
+
+
+.transparentButton{
+  background-color: transparent;
+  padding: 5px 5px  10px 5px;
+  text-align: left;
+  /* border: none; */
+  border: 1px solid  transparent;
+  border-radius: 15px;
+  cursor: pointer; 
+  overflow-wrap: break-word;
+  transition-duration: 0.4s;
+
+}
+
+.buttonText{
+  font-weight: bold;
+  line-height: 200%;
+  font-family: inherit;
+
+}
+
+
+.icon{
+  position: relative;
+  top: 5px;
+  padding: 0px 5px 0px 0px ;
+  /* float: left; */
+}
+
+.editButton{
+  margin:   5px 30px 30px 5px ;
+}
+
+
+
+

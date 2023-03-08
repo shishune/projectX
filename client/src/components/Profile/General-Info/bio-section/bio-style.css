@@ -1,0 +1,23 @@
+.bio{
+    display: flex;
+    flex: flex-start;
+    text-align: left;
+}
+
+.textInfo {
+    margin: 15px;
+    min-width: 500px;
+    align-content: left;
+
+}
+
+#professionalProjectType {
+  color:  #41b09f; 
+  font-weight: bold;
+}
+
+#casualProjectType {
+  color:  #f07c73;
+  font-weight: bold;
+}
+

@@ -1,0 +1,350 @@
+{
+    "_id": {
+        "$oid": "624e314d790bdf16e86fb9b7"
+    },
+    "title": "Satisfying Things",
+    "postType": "Professional",
+    "postSearchState": "In progress",
+    "postLocation": "Semi-Remote  (Toronto, ON)",
+    "tags": [{
+        "tagName": "Technology",
+        "_id": {
+            "$oid": "624c6e6dce29454719c28876"
+        }
+    }, {
+        "tagName": "Health",
+        "_id": {
+            "$oid": "624c6e6dce29454719c28877"
+        }
+    }, {
+        "tagName": "Physical Product",
+        "_id": {
+            "$oid": "624c6e6dce29454719c28878"
+        }
+    }],
+    "numViews": "0",
+    "targetUsers": "Elderly, Abled, Medical Workers",
+    "description": "I want to create a company that sells fidget objects to elder citizens. Satisfying fidget objects, like the ones you will see below, have been used as entertainment and a mental health booster for mostly children for the past fet decades. But amidst the pandemic, I've come to the realization that elders could gain huge benefits from these products. Where as elder citizens pre-pandemic had the ability to exercise their brain through social activities such as talking, or social games, this has been made extremely difficult or impossible for most people. Playing with fidget objects were shown to be extremely beneficial to brain activity and mental health. Therefore, I would like to see if these would be able to help elder citizens.",
+    "materials": {
+        "videos": [{
+            "link": "https://www.youtube.com/embed/bHX4GcxrUgY",
+            "title": "Clay cracking video",
+            "description": "This is a video a friend of mine created with a fidget object: clay cracking.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb069e"
+            }
+        }, {
+            "link": "https://youtube.com/embed/WsG_3NdAmkk",
+            "title": "Slime video",
+            "description": "This is the most prevelant and possible product to sell, as they are easy to make and package. However, as you can see, there are already products like this out there (though not targeted towards the elderly, so there could be something to work with there).",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb069f"
+            }
+        }, {
+            "link": "https://youtube.com/embed/aCKtkvFvXa8",
+            "title": "Paint making",
+            "description": "Although more time intensive (perhaps a good thing), paint making from pigments is another source Id like to look into for this business.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06a0"
+            }
+        }, {
+            "link": "",
+            "title": "",
+            "description": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06a1"
+            }
+        }, {
+            "link": "",
+            "title": "",
+            "description": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06a2"
+            }
+        }]
+    },
+    "possibleCostEstimates": "",
+    "inspirations": {
+        "videos": [{
+            "link": "https://youtube.com/embed/k6vb9Eb-Ufc",
+            "title": "Soap cutting",
+            "description": "I started thinking about this business idea because of this soap making video.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06a8"
+            }
+        }, {
+            "link": "https://youtube.com/embed/VHB3_W8cTto",
+            "title": "Satisfying video",
+            "description": "I looked into more satisfying videos, but concluded that most of the items here were either too inaccessible for most, or too dangerous.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06a9"
+            }
+        }, {
+            "link": "",
+            "title": "",
+            "description": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06aa"
+            }
+        }, {
+            "link": "",
+            "title": "",
+            "description": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06ab"
+            }
+        }, {
+            "link": "",
+            "title": "",
+            "description": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06ac"
+            }
+        }]
+    },
+    "requiredPeople": [{
+        "jobTitle": "A Coder",
+        "jobDescription": "You will create a website with multiple pages, some way to list my products, tell people the company mission, plus the ability to purchase items",
+        "purpose": "I need an experienced coder to first create a website for this business so I can fundraise and present products to investors. Figure out if this is a good idea. I'm happy with any sort of website, as long as it has good accessability for elderly viewers",
+        "requirements": [{
+            "requirement": "have website coding experience",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b3"
+            }
+        }, {
+            "requirement": "be willing to work part-time",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b4"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b5"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b6"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b7"
+            }
+        }],
+        "additionalInfo": "I don't know much about web coding, so it would be great if you can explain to me anything I would need to know in order to have a website.",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06b2"
+        }
+    }, {
+        "jobTitle": "A Medical Professional",
+        "jobDescription": "You will help me look at research studies on neurology and existing solutions on solutions for mental issues elderly people are prone to.",
+        "purpose": "I need someone who is well versed in research to find and read through credible, peer reviewed studies that relate to the areas I want to target.",
+        "requirements": [{
+            "requirement": "Have a medical doctorate or phD in Neurology.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06b9"
+            }
+        }, {
+            "requirement": "Have experience reading and summarizing info from research studies.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06ba"
+            }
+        }, {
+            "requirement": "Be willing to work part-time.",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06bb"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06bc"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06bd"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06be"
+            }
+        }],
+        "additionalInfo": "I think it might be an interesting idea to do some user tests on the fidget toys, and test their effects on senior citizens eventually. I would be great to talk with you about how viable this is and how I can go about doing this.",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06b8"
+        }
+    }, {
+        "jobTitle": "",
+        "jobDescription": "",
+        "purpose": "",
+        "requirements": [{
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c0"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c1"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c2"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c3"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c4"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c5"
+            }
+        }],
+        "additionalInfo": "",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06bf"
+        }
+    }, {
+        "jobTitle": "",
+        "jobDescription": "",
+        "purpose": "",
+        "requirements": [{
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c7"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c8"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06c9"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06ca"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06cb"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06cc"
+            }
+        }],
+        "additionalInfo": "",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06c6"
+        }
+    }, {
+        "jobTitle": "",
+        "jobDescription": "",
+        "purpose": "",
+        "requirements": [{
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06ce"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06cf"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d0"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d1"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d2"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d3"
+            }
+        }],
+        "additionalInfo": "",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06cd"
+        }
+    }, {
+        "jobTitle": "",
+        "jobDescription": "",
+        "purpose": "",
+        "requirements": [{
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d5"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d6"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d7"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d8"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06d9"
+            }
+        }, {
+            "requirement": "",
+            "_id": {
+                "$oid": "62465f29ca407378cbcb06da"
+            }
+        }],
+        "additionalInfo": "",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb06d4"
+        }
+    }],
+    "posterId": "62465f29ca407378cbcb0713",
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1648779068208"
+        }
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1649176173411"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    },
+    "isFlagged": false
+}

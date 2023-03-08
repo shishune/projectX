@@ -1,0 +1,451 @@
+/* Might be easier to have more than one css file for this folder? */
+
+/* .centerElement {
+  margin: auto;
+  width: 50%;
+} */
+/* #postsFeedSectionContainer {
+  max-width: 50%;
+} */
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+.container {
+  padding-top: 20px;
+  margin: auto;
+}
+
+
+.homePageTitle{
+  font-size: 60px;
+  text-align: left;
+  padding-top: 1em;
+  justify-content: center;
+  margin: auto;
+  max-width: 656px;
+}
+
+.seafoamText {
+  background: none;
+  color: #49C4B1;
+  text-decoration: none;
+  /* cool in the future to have this alternate colours */
+}
+
+
+.infoBoxes{
+  display: flex;
+  justify-content: center;
+}
+
+/* I know these elements are repetitive, will fix later */
+.infoBoxLeft {
+  background: #E4F7F4;
+  width: 277px;
+  height: 168px;
+  float: left;
+  border-radius: 10%;
+  margin-top: 55px;
+  margin-right: 34px;
+}
+
+.infoBoxRight {
+  background: #E4F7F4;
+  width: 277px;
+  height: 168px;
+  float: left;
+  border-radius: 10%;
+  margin-top: 55px;
+  margin-left: 34px;
+}
+
+.subTitle {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 16px;
+}
+
+.subTitleDescriptor {
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+}
+
+.subTitleType2 {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 42px;
+  display: flex;
+  justify-content: center;
+
+}
+
+#joinButton{
+  background-color: white;
+  border-radius:50px;
+  border: 2.2px solid #BABABA;
+  font-size: 19px;
+  width: 133px;
+  height: 45px;
+  transition: all 0.3s ease 0s;
+} 
+
+
+#joinButton:hover{
+  border: 2.2px solid #BABABA;
+  background-color: #BABABA;
+  color: white;
+
+}
+
+.joinButton a {
+  font-size: 18px;
+  color: #838383;
+}
+
+.joinButtonContainer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.joinButton:hover a{
+  color: white;
+  transition: all 0.3s ease 0s;
+}
+
+/* .css-i4bv87-MuiSvgIcon-root{
+  font-size: 4.5rem !important;
+  fill: #BABABA !important;
+
+} 
+
+.css-i4bv87-MuiSvgIcon-root{
+  height: 0.25em !important;
+  width: 0.25em !important;
+}
+*/
+
+
+
+
+.arrowDownIcon{
+  font-size: 4.5rem !important;
+  fill: #BABABA !important;
+  height: 0.25em !important;
+  width: 0.25em !important;
+}
+
+#companyDescription {
+  width: 600px;
+  font-size: 24px;
+  text-align: justify;
+  line-height: 1.8em;
+  margin: auto;
+  padding-top: 2em;
+  padding-bottom: 3em;
+}
+
+.postContainer {
+  width: 602px;
+  margin: auto;
+}
+
+/* .css-1v5z4dq-MuiPaper-root-MuiCard-root{
+  border-radius: 24px !important;
+  height:230px;
+  margin-bottom: 20px;
+} */
+
+.postCard{
+  border-radius:10px !important;
+  height:230px;
+  margin-bottom: 20px;
+}
+
+/* .css-nen11g-MuiStack-root{
+  width: 602px;
+  margin: auto;
+} */
+
+.postStack{
+  width: 602px;
+  margin: auto;
+}
+
+.userInfoContainer {
+  width: 149px;
+  height: 100%;
+  padding-left: 10px;
+  padding-right: 15px;
+  padding-top: 20px;
+  float: left;
+}
+
+.subHeadingsContainer {
+  text-align: left;
+  width: 390px;
+  padding-top: 20px;
+  float: left;
+}
+
+.cardTitle{
+  font-size: 22px;
+  margin-bottom: 11px;
+}
+
+#posterName{
+  font-size: 14px;
+}
+
+#filterContainer {
+  width: 600px;
+  height: 75px;
+  margin: auto;
+}
+
+#LookingToFilter{
+  display: flex;
+  align-items: center;
+
+}
+
+#projectDropDownMenu {
+  border: none;
+  float: left;
+}
+
+#menuStyles{
+  border: solid 1px #BABABA;
+  font-size: 15px;
+  padding: 15px 0px 15px 15px;
+  width: 125px;
+  border-radius: 5px;
+  background-color: white;
+  display: inline-block;
+  margin: 5px;
+}
+
+
+
+.filterTitle{
+  float: left;
+  margin-right: 6px;
+}
+
+.filterTitle.notFirst{
+  padding-left: 24px;
+}
+
+#locationTextBox{
+  border: none;
+  border-bottom: 1.5px solid #BABABA;
+}
+
+#keyboardArrow{
+  height: 2em !important;
+  width: 2em !important;
+  fill: #BABABA !important;
+}
+
+
+
+#locationTextBox{
+  width: 121px;
+  float:left;
+}
+
+#moreOptionsButton{
+  float:left;
+}
+
+/* Post is flagged */
+#homePostIsFlaggedContainer {
+  margin-bottom: 20px;
+}
+#homePostIsFlaggedIcon {
+  width: 20px;
+  position: relative;
+  top: 5px;
+}
+
+#homePostIsFlaggedText {
+  color: red;
+}
+
+/* addPost dialogue */
+/* addPost dialog */
+/* .dialogueHeader{
+  position: sticky;
+  top: 0;
+}
+
+
+.dialogueBackgroundBlur {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.25);
+  margin: 0;
+  /* padding: 0; *//*
+}
+
+.addPostDialogue {
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  width: 80%;
+  padding: 20px;
+  border-radius: 5px;
+  min-width: 400px;
+  max-height: 75%;
+  overflow: auto;
+  z-index: 3;
+}
+
+#addPostForm{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  right: 90px;
+  gap: 10px;
+  text-align: center;
+}
+
+.addPostSectionBorder {
+  border: 1px solid #9b9b9b; ;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.addPostSectionContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#addPostFormContentContainer {
+  margin-top: 40px;
+  align-items: center;
+  text-align: left;
+}
+
+#addPostDialogueTitle {
+  font-size: 30px;
+  float: left;
+}
+
+.close {
+  color: Black;
+  float: right;
+}
+
+.close:hover {
+  cursor: pointer;
+}
+
+.addPostPostTypeContainer {
+  display: inline-block;
+}
+
+.addPostLocationContainer {
+  display: inline-block;
+}
+
+.addPostLabel{
+  padding: 10px;
+  display: inline-block;
+  width: 150px;
+}
+
+.dropDownSelect {
+  font-weight: 600;
+  padding: 10px 15px;
+  width: 150px;
+  margin: 10px;
+  font-family: inherit;
+  border-radius: 5px;
+  background-color: rgb(248, 248, 248);
+  display: inline-block;
+}
+.addPostLocationTextContainer {
+  display: inline-block
+}
+
+label {
+  width: fit-content;
+} */
+
+/* input[type=submit] {
+  background-color: #49C4B1;
+  color: white;
+  padding: 10px 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+} 
+
+#submitButton {
+  display: flex; 
+  position: absolute;
+  bottom: 20px;
+  right: -450px; 
+  /* float: right;*/ /*
+  background-color: #49C4B1;
+  color: white;
+  width:fit-content;
+  padding: 10px 15px;
+  border: 1px solid #56c7b6;
+  border-radius: 5px;
+  /* font-family: inherit; */ /*
+}
+
+
+
+input[type=text], input[type=url], textarea {
+  padding: 15px;
+  width: 300px;
+  font-family: inherit;
+}
+
+textarea {
+  height: 100px;
+}
+
+#addPostBtn {
+  background-color: #49C4B1;
+  color: white;
+  padding: 10px 15px;
+  border: 1px solid #56c7b6;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#showMoreBtn {
+  background-color: white;
+  color: black;
+  padding: 10px 15px;
+  border: 1px solid #49C4B1;
+  border-radius: 5px;
+  margin-top: 8px;
+  margin-bottom: 40px;
+}
+
+.addPostRequiredPeopleRequirementsRequirementContainer {
+  padding-bottom: 10px;
+}
+
+.centered-text {
+  text-align: center;
+}
+*/

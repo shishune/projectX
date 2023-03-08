@@ -1,0 +1,15 @@
+.postsTab {
+    display: flex;
+    flex-direction: column;
+}
+
+#profileAddPostButton {
+    background-color: #49C4B1;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid #56c7b6;
+    border-radius: 5px;
+    width: 100px;
+    align-self: flex-end;
+    cursor: pointer;
+}

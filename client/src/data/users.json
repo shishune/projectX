@@ -1,0 +1,60 @@
+{
+  "generatedUniqueUserID1" : {
+    "id" : "generatedUniqueUserID1",
+    "isAdmin" : "false",
+    "username" : "user@user.com",
+    "password" : "user",
+    "firstName" : "Kelly",
+    "lastName" : "Ann",
+    "preferredName" : "",
+    "profileImgLink" : "",
+    "casualProjects" : "true",
+    "professionalProjects" : "false",
+    "location" : "Toronto, ON",
+    "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra dolor vitae mauris consequat luctus sit amet a felis. Donec a augue finibus, sodales odio bibendum, consequat est. Mauris egestas posuere felis, at volutpat nibh facilisis nec. Pellentesque placerat arcu eget tincidunt fringilla. Nunc tempus in nulla fermentum suscipit. Nam ullamcorper eget nisl eget vulputate. Phasellus in urna eget libero ornare porttitor. Phasellus eleifend luctus condimentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "links" : [
+      {
+        "linkName" : "OtherWebsite",
+        "link" : "https://www.google.com"
+      },
+      {
+        "linkName" : "OtherWebsite",
+        "link" : "https://www.facebook.com"
+      },
+      {
+        "linkName" : "LinkedIn",
+        "link" : "https://www.linkedin.com"
+      }
+    ],
+    "posts": []
+  },
+  "generatedUniqueUserID2" : {
+    "id" : "generatedUniqueUserID2",
+    "isAdmin" : "true",
+    "username" : "admin@admin.com",
+    "password" : "admin",
+    "firstName" : "Adam",
+    "lastName" : "Manman",
+    "preferredName" : "Ad the man",
+    "profileImgLink" : "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+    "casualProjects" : "true",
+    "professionalProjects" : "true",
+    "location" : "Ottawa, ON",
+    "bio" : "Phasellus augue lorem, efficitur eu posuere nec, hendrerit vitae urna. Quisque ac tempus lorem. Vestibulum et neque suscipit diam sollicitudin rutrum a sit amet enim. Pellentesque mauris quam, sollicitudin et orci a, molestie ultricies metus. Nam placerat sem eu lectus maximus ultrices. Vestibulum porta ornare quam, non molestie eros venenatis non. In mollis sapien augue, porta ullamcorper odio aliquet et. Donec ut sagittis sem, efficitur porta urna.",
+    "links" : [
+      {
+        "linkName" : "OtherWebsite",
+        "link" : "https://www.google.com"
+      },
+      {
+        "linkName" : "Github",
+        "link" : "https://www.github.com"
+      },
+      {
+        "linkName" : "LinkedIn",
+        "link" : "https://www.linkedin.com"
+      }
+    ],
+    "posts": []
+  }
+}

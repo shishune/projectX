@@ -1,0 +1,49 @@
+{
+    "_id": {
+        "$oid": "624e3a50790bdf16e86fb9bb"
+    },
+    "isAdmin": "false",
+    "username": "user1@user.com",
+    "password": "user",
+    "firstName": "Kelly",
+    "lastName": "Ann",
+    "preferredName": "",
+    "profileImgLink": "",
+    "location": "Toronto, ON",
+    "bio": "Hi, my name is Kelly, and I love science and cats. I am open to any sort of project relating to those two categories, and have a couple of projects posted for those exact topics. Please feel free to contact me about my current projects, and let's chat!",
+    "links": [{
+        "linkName": "Other Website",
+        "link": "https://www.google.com",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb0714"
+        }
+    }, {
+        "linkName": "Other Website",
+        "link": "https://www.facebook.com",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb0715"
+        }
+    }, {
+        "linkName": "LinkedIn",
+        "link": "https://www.linkedin.com",
+        "_id": {
+            "$oid": "62465f29ca407378cbcb0716"
+        }
+    }],
+    "interestedInCasual": "true",
+    "interestedInProfessional": "false",
+    "posts": [],
+    "createdAt": {
+        "$date": {
+            "$numberLong": "1648779084073"
+        }
+    },
+    "updatedAt": {
+        "$date": {
+            "$numberLong": "1648779084073"
+        }
+    },
+    "__v": {
+        "$numberInt": "0"
+    }
+}

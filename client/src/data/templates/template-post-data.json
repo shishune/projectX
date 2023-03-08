@@ -1,0 +1,97 @@
+{
+  "postId" : "",
+  "title": "",
+  "postType": "",
+  "postSearchState" : "",
+  "postLocation": "",
+  "tags" : [
+    {
+      "tagName" : ""
+    },
+    {
+      "tagName" : ""
+    },
+    {
+      "tagName" : ""
+    }
+  ],
+  "numViews" : "",
+  "targetUsers" : "",
+  "description" : "",
+  "materials" : {
+    "videos" : [
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      },
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      },
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      }
+    ],
+    "otherLinks" : [
+      {
+        "linkText" : "",
+        "link" : ""
+      },
+      {
+        "linkText" : "",
+        "link" : ""
+      }
+    ]
+  },
+  "possibleCostEstimates" : "",
+  "inspirations" : {
+    "videos" : [
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      },
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      },
+      {
+        "link" : "",
+        "title" : "",
+        "description" : ""
+      }
+    ],
+    "otherLinks" : [
+      {
+        "linkText" : "",
+        "link" : ""
+      },
+      {
+        "linkText" : "",
+        "link" : ""
+      }
+    ]
+  },
+  "requiredPeople" : [
+    {
+      "jobTitle" : "",
+      "jobDescription" : "",
+      "purpose" : "",
+      "requirements" : "",
+      "additionalInfo" : ""
+    },
+    {
+      "jobTitle" : "",
+      "jobDescription" : "",
+      "purpose" : "",
+      "requirements" : "",
+      "additionalInfo" : ""
+    }
+  ],
+  "posterId" : ""
+}
