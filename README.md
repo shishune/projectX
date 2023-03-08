@@ -1,11 +1,9 @@
-Note: we will be submitting phase 2 late by 1 day. Please mark the latest commit for April 6 before 10pm.
-
-Further note: please refer to the README.md file that has been submitted most recently. Please also refer to the localdb_json folder as sample for what a default user, admin, and post, should look like within the local database. Our TA, Ronny Chan, agreed to consider these updated files in our grading without penalty. Thank you. 
 
 Demo note: Although we completed the "Add Video" button to the Add Post dialogue before the deadline, we also implemented the "Add Link" and "Add Job" button after the deadline, and for the demo. 
 
 # team08
  URL: https://team8projectx.herokuapp.com
+ // note: this link no longer works as heroku no longer supports free projects
 
 ## Set up 
     # install server dependencies in the root directory
